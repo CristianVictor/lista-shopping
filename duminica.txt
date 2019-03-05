@@ -10,6 +10,9 @@ test
 
 sampanie 
 tort
+ziua-sebi
+coifuri petrecere
+cafea
 cafea
 test
 test
